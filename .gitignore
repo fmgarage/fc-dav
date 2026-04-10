@@ -2,3 +2,4 @@ Import.log
 *.fmp12
 .idea
 .obsidian
+.DS_Store
